@@ -1,5 +1,5 @@
 def SI(p,r,t):
-    return (p*r*t)/100
+    return (p*r*t)/100   # SI = (Principal * Rate * Time)/100
 
 Principal = int(input("Enter the Principal :"))
 Rate = int(input("Enter the Rate of Interest :"))
