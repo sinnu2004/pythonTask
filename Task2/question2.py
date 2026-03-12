@@ -1,3 +1,5 @@
+# Q2. Triangle Validity
+# Take three angles as input and determine if they can form a valid triangle.
 def triangle_valid(A,B,C):
     if(A+B+C==180):
         return True

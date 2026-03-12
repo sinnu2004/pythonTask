@@ -1,3 +1,5 @@
+# Fibonacci Series
+# Display Fibonacci series up to 10 terms.
 def fibo(n):
     pre = 0
     curr = 1

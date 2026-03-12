@@ -1,3 +1,5 @@
+# Q14. Armstrong Numbers
+# Print all Armstrong numbers in a given range.
 def count(n):
     count = 0
     while(n>0):

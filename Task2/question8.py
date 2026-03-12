@@ -1,3 +1,5 @@
+# Conditional Sum
+# Sum numbers from 1 to N, skip multiples of 5, stop if sum >300. Do not use for
 def condi_sum(n):
     sum = 0
     i = 1

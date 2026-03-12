@@ -1,3 +1,5 @@
+# Q7. Reverse Integer
+# Example: Input 76542 Output 24567
 def reverse_int(n):
     sum = 0
     while(n>0):

@@ -1,3 +1,8 @@
+# In-Hand Salary Calculator
+# Write a Python program to calculate monthly in-hand salary after deductions from CTC.
+# Deductions: HRA 10%, DA 5%, PF 3%.
+# Tax slabs: Below 5L=0%, 5-10L=10%, 10-20L=20%, Above 20L=30%.
+
 def month_salary(s):
     HRA = (s)* 10/100
     DA = (s)*5/100

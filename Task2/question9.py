@@ -1,3 +1,5 @@
+# Q9. Sum and Average Until Zero
+# Keep accepting numbers until user enters 0. Display sum and average.
 sum = 0
 count = 0
 n = int(input("Enter the number :"))

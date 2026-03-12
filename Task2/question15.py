@@ -1,3 +1,5 @@
+# Q15. Clock Angle
+# Find minimum angle between hour and minute hands.
 def angle(M):
     return M*30
 
