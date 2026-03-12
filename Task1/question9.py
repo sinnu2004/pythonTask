@@ -1,3 +1,5 @@
+# Given two fractions, write a program to find their sum. Take the numerator and
+# denominator of both fractions from the user.
 def sum(a,b):
     return a + b
 

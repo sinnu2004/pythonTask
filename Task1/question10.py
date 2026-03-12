@@ -1,3 +1,6 @@
+# Q10. Given the height, length and breadth of a milk tank, calculate how many glasses of milk
+# can be obtained.
+
 length = int(input("Enter the Length of the tank :"))
 breadth = int(input("Enter the breadth of the tank :"))
 height = int(input("Enter the height of the tank :"))
