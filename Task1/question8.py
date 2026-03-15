@@ -12,3 +12,6 @@ b = int(input("Enter the 2nd term :"))
 diff = b - a
 n = int(input("Enter the Nth term required :"))
 print(ArithmeticSeries(b,diff,n,2))
+
+result = a + (n-1)*diff
+print(result)
